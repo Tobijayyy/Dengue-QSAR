@@ -1,0 +1,6 @@
+Descriptor,p_value,stat,inference
+MW,8.90434503420859e-05,26577.0,There is a significant difference
+LogP,0.5535814390037046,20381.0,There is no significant difference
+NumHDonors,2.1031181275368474e-09,30053.0,There is a significant difference
+NumHAcceptors,2.323801090639119e-06,27951.5,There is a significant difference
+pIC50,3.468328416879754e-25,38554.0,There is a significant difference
